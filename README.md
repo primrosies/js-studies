@@ -1,0 +1,1 @@
+Repository made to keep track with my JavaScript study projects
